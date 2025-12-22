@@ -1,1 +1,1 @@
-A Simple GUI based pokedex made using python
+A Simple GUI based Pokedex made using python
